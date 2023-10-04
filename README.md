@@ -28,8 +28,9 @@ cd app-ui
 npm install
 npm run serve
 
+![Screenshot 2023-10-05 005142](https://github.com/kumardeepak789/CrudApp-in-SpringBoot-and-Vue.js/assets/51526463/40654603-20b3-4255-b1fa-374870e41ff6)
 
-![Screenshot 2023-10-05 005142](https://github.com/kumardeepak789/CrudApp-in-SpringBoot-and-Vue.js/assets/51526463/75a09087-dccf-4202-a478-6c80f9a261f9)
+
 ## Usage
 Use the Vue.js frontend to interact with the application and perform CRUD operations on the data.
 The Vue.js frontend communicates with the Spring Boot backend via RESTful API endpoints.
